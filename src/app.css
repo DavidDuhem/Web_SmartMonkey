@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #212121;
+    height: 100%;
+    overflow: hidden;
+}
+
+p,
+h1,
+h2,
+h3,
+input,
+button,
+textarea,
+input::placeholder,
+textarea::placeholder {
+    color: #eeeeee;
+}
