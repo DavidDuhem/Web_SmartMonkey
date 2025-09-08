@@ -73,6 +73,11 @@
     input, button{
         height: 2rem; 
         font-size: 1.2rem;
+        color: black;
+    }
+
+    input::placeholder{
+        color: black;
     }
 
     input{
